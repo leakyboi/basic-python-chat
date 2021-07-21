@@ -16,6 +16,15 @@ cd basic-python-chat
 </details>
 <br>
 
+Make sure python is actually... installed.
+<br>
+
+## Run the bot
+<details>
+<summary>Runs the bot</summary>
+"python server.py" then "python client.py" after editing the files to your likeing.
+</details>
+
 
 
 
