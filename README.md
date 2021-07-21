@@ -5,15 +5,14 @@ A basic python chat server & client, feel free to PR to add and make this better
 
 ## Clone Repo
 <details>
+<summary>Clones Repo</summary>
 git clone https://github.com/nexxydev/basic-python-chat.git
 </details>
 
 ## Enter the directory
 <details>
 <summary>Enters the directory of the bot</summary>
-```js
 cd basic-python-chat
-```
 </details>
 <br>
 
