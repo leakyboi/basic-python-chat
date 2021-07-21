@@ -3,7 +3,6 @@ A basic python chat server & client, feel free to PR to add and make this better
 
 ## Documentation
 <details>
-  <summary>Click here</summary>
 ## Clone Repo
 <details>
 git clone https://github.com/nexxydev/basic-python-chat.git
