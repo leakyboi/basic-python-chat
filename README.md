@@ -16,7 +16,7 @@ cd basic-python-chat
 </details>
 <br>
 
-Make sure python is actually... installed.
+*Notice: Make sure python is actually... installed.
 <br>
 
 ## Run the bot
