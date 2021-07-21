@@ -11,7 +11,9 @@ git clone https://github.com/nexxydev/basic-python-chat.git
 ## Enter the directory
 <details>
 <summary>Enters the directory of the bot</summary>
+  ```js
 cd basic-python-chat
+  ```
 </details>
 <br>
 
