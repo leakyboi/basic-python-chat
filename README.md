@@ -1,13 +1,26 @@
 # basic-python-chat
 A basic python chat server & client, feel free to PR to add and make this better!
 
+## Documentation
 
-#Documentation
+## Clone Repo
+<details>
+<summary>Clones Repo</summary>
+git clone https://github.com/nexxydev/basic-python-chat.git
+</details>
 
-Clone repo: git clone https://github.com/nexxydev/basic-python-chat.git
+## Enter the directory
+<details>
+<summary>Enters the directory of the bot</summary>
+cd basic-python-chat
+</details>
+<br>
 
-Enter the directory with: cd basic-python-chat
+*Notice: Make sure python is actually... installed.
+<br>
 
-Make sure python is actually... installed.
-
-Run "python server.py" then "python client.py" after editing the files to your likeing.
+## Run the bot
+<details>
+<summary>Runs the bot</summary>
+"python server.py" then "python client.py" after editing the files to your likeing.
+</details>
