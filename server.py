@@ -60,4 +60,4 @@ if __name__ == "__main__":
     ACCEPT_THREAD = Thread(target=accept_incoming_connections) # We accept you incoming connections!
     ACCEPT_THREAD.start()
     ACCEPT_THREAD.join()
-    SERVER.close() # We didn't need to server anyway, servers are overrated
+    SERVER.close() # We didn't need the server anyway, servers are overrated
