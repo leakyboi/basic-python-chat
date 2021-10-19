@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Script for Tkinter GUI chat client."""
+"""tkinter and socket stuff."""
 from socket import AF_INET, socket, SOCK_STREAM
 from threading import Thread
 import tkinter
 
 
 def receive():
-    """Handles receiving of messages."""
+    """Handles receiving."""
     while True:
         try:
             msg = client_socket.recv(BUFSIZ).decode("utf8")
