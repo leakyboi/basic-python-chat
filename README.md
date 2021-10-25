@@ -24,3 +24,6 @@ cd basic-python-chat
 <summary>Runs the bot</summary>
 "python server.py" then "python client.py" after editing the files to your likeing.
 </details>
+
+## I would like to say thank you to
+Shayson for this readme, adding a license, and those amazing comments in the code taking the piss out of the fact that my comments are shit LMFAOO
